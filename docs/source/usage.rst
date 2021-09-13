@@ -106,11 +106,7 @@ And lastly it's time to run some Splunk searches...
 
 
 
-
 **NOTE:** *Keep in mind that the audit events should be available for making request, as soon as one of the audited action occurs, e.g after a user logs in.*
-
-
-Happy Splunking!!!  😉
 
 
 
