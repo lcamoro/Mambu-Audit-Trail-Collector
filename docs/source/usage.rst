@@ -30,12 +30,12 @@ If for some reason one of the features is disabled, you should contact Mambu sup
 Managing Audit Trail API credentials
 ------------------------------------
 
-
-
 You may configure relevant settings in Administration > Access > Preferences
+
 .. image:: https://whatdoeskmean.github.io/data/images/mambu/unnamed-2.png
 
 To create an API Consumer:
+
 .. image:: https://whatdoeskmean.github.io/data/images/mambu/unnamed-3.png
 
 
@@ -45,6 +45,7 @@ Enter all the necessary information in the Create Api Consumer dialog (Some name
 Select Save Api Consumer
 
 To generate an API key:
+
 .. image:: https://whatdoeskmean.github.io/data/images/mambu/unnamed-4.png
 
 
