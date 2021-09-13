@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Mambu-Audit-Trail-Collector'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
