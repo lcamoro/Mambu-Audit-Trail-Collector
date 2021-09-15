@@ -32,8 +32,6 @@ Managing Audit Trail API credentials
 
 You may configure relevant settings in Administration > Access > Preferences
 
-.. image:: https://whatdoeskmean.github.io/data/images/mambu/unnamed-2.png
-
 To create an API Consumer:
 
 .. image:: https://whatdoeskmean.github.io/data/images/mambu/unnamed-3.png
